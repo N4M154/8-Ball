@@ -59,7 +59,7 @@ function CurrencyConverter({ url }) {
 
   return (
     <div className="currency-converter">
-      <h2>Convert Currency</h2>
+      <h2>8 Ball the Currency Converter</h2>
       {error && <h2 className="error">{error}</h2>}
       <form>
         <div>
