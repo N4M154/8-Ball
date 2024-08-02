@@ -1,0 +1,57 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #000000;
+}
+
+.currency-converter {
+  min-width: 30rem;
+  max-width: 80rem;
+  background-color: transparent;
+  color: rgb(51, 51, 240);
+  padding: 1rem;
+  box-shadow: 10px 10px 20px rgb(99, 99, 241);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+}
+.currency-converter form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.currency-converter label {
+  display: block;
+  color: rgb(99, 99, 241);
+  font-size: large;
+}
+
+.currency-converter input,
+.currency-converter select {
+  padding: 10px;
+  margin: 0;
+  font-size: 1rem;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  background-color: rgb(134, 189, 235);
+}
+
+.swap-button {
+  padding: 4px 10px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: black;
+  font-weight: bold;
+  background-color: rgb(99, 99, 241);
+  margin-top: 25px;
+}
+
+.error {
+  color: red;
+}
