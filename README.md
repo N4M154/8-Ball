@@ -11,4 +11,4 @@
    ```bash
    npm run dev
    ```
-![Alt text](https://github.com/N4M154/8-Ball/blob/8ab803f8d3f3893c91da46dc19a7c7902a077155/Screenshot.png)
+![screenshot](https://github.com/N4M154/Converted/blob/fd276f03737564887d3c7b19c0499c7180cd3110/Screenshot.png)
