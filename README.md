@@ -11,4 +11,4 @@
    ```bash
    npm run dev
    ```
-![Alt text](C:\Users\USER\Pictures\Screenshots.png)
+![Alt text](https://github.com/N4M154/8-Ball/blob/8ab803f8d3f3893c91da46dc19a7c7902a077155/Screenshot.png)
