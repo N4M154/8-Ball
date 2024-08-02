@@ -1,7 +1,7 @@
 # Installation
 1. clone the repository
    ```bash
-   git clone https://github.com/N4M154/8-Ball.git
+   git clone https://github.com/N4M154/Converted.git
    ```
 2. install the packages (in the root)
    ```bash
